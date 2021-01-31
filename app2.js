@@ -1,6 +1,5 @@
 
 
-function greeting(){
 alert('Hello, its our unique page of coffee lovers');
 
 var user = prompt('whats your age?');
@@ -11,7 +10,7 @@ if (user < 15) {
 } else {
     alert('welcome to become one of ours');
 };
-function ordaringcoffee(){
+
 var userOrder = prompt('what would you like to order we have 1.Espresso ,2.Cappuccino ,3.Americano ,4.Mocha ,5.Cafe au Lait ', 'place your order');
 
 while (!(userOrder == 'Espresso' || userOrder == 'Cappuccino' || userOrder == 'Americano' || userOrder == 'Mocha' || userOrder == 'Cafe au Lait')) {
@@ -46,7 +45,4 @@ for (var i = 0; i < userInputs; i++) {
      }
 
 }
-greeting();
-ordaringcoffee();
-}
-}
+

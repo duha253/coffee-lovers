@@ -27,7 +27,7 @@ for (var i = 0; i < userInputs; i++) {
 
     } else if (userOrder == 'Americano') {
 
-        image = '<img src ="https://lh3.googleusercontent.com/proxy/WPGG8jRfW63myWWQE60x2bcdUQpaE5dGdsjtBk6R2JIFOwogiFAHO_NfkvfNx-Wx43h2yWYow6nYT89ESrJiQAnyHO_r9SFAcgnlb1Ax4SELWoMEPXvMOn44-noyfHFm9W0we_VNhQ">'
+        image = '<img src ="https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-recipes-americano-1571757341897.jpg">'
         document.write(image);
 
     } else if (userOrder == 'Mocha') {

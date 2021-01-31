@@ -1,0 +1,24 @@
+header{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+
+}
+header nav ul{
+    list-style: none;
+
+}
+header nav ul li{
+    display: inline;
+    border:rgb(58, 17, 61) solid 1px;
+    margin: 20px;
+
+}
+header nav ul li a {
+    text-decoration: none;
+    color: peachpuff;
+}
+h2{
+    margin: 20px  0  20px  60px;
+}
